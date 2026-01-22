@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 from sklearn.ensemble import RandomForestRegressor
 
-df = pd.read_csv('C:/Users/felipe.valdivia/Downloads/data_inferencia_causal.csv')
+df = pd.read_csv('data/data_inferencia_causal.csv')
 
 
 #####################################
